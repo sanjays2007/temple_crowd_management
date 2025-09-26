@@ -1,3 +1,58 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-banner",
+      "description": "A serene and majestic temple against a sunrise",
+      "imageUrl": "https://images.unsplash.com/photo-1757091344282-4f402cb1803b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dGVtcGxlJTIwc3VucmlzZXxlbnwwfHx8fDE3NTg4NjMyMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple sunrise"
+    },
+    {
+      "id": "somnath-temple",
+      "description": "The Somnath Temple by the sea",
+      "imageUrl": "https://images.unsplash.com/photo-1591700430569-9469d38b1006?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxTb21uYXRoJTIwdGVtcGxlfGVufDB8fHx8MTc1ODg2MzIwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "Somnath temple"
+    },
+    {
+      "id": "dwarka-temple",
+      "description": "The Dwarkadhish Temple, also known as Jagat Mandir",
+      "imageUrl": "https://images.unsplash.com/photo-1669153619321-15d8d212fffc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8RHdhcmthJTIwdGVtcGxlfGVufDB8fHx8MTc1ODg2MzIwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "Dwarka temple"
+    },
+    {
+      "id": "ambaji-temple",
+      "description": "The Ambaji Temple, a major Shakti Peeth",
+      "imageUrl": "https://images.unsplash.com/photo-1672215041347-c76cd1b652fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxBbWJhamklMjB0ZW1wbGV8ZW58MHx8fHwxNzU4ODYzMjAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "Ambaji temple"
+    },
+    {
+      "id": "pavagadh-temple",
+      "description": "The Kalika Mata Temple on Pavagadh Hill",
+      "imageUrl": "https://images.unsplash.com/photo-1668160747331-4275e35f0713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxQYXZhZ2FkaCUyMHRlbXBsZXxlbnwwfHx8fDE3NTg4NjMyMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "Pavagadh temple"
+    },
+    {
+      "id": "somnath-map",
+      "description": "Illustrated map of Somnath Temple complex",
+      "imageUrl": "https://images.unsplash.com/photo-1653279593874-d97da4522e76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0ZW1wbGUlMjBmbG9vcnBsYW58ZW58MHx8fHwxNzU4ODcxNDUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple floorplan"
+    },
+    {
+      "id": "dwarka-map",
+      "description": "Illustrated map of Dwarkadhish Temple complex",
+      "imageUrl": "https://images.unsplash.com/photo-1729943832970-e03e4fbbef98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzaHJpbmUlMjBtYXB8ZW58MHx8fHwxNzU4ODcxNDU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "shrine map"
+    },
+    {
+      "id": "ambaji-map",
+      "description": "Illustrated map of Ambaji Temple complex",
+      "imageUrl": "https://images.unsplash.com/photo-1570309977742-90c800236330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwaWxncmltYWdlJTIwbGF5b3V0fGVufDB8fHx8MTc1ODg3MTQ1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pilgrimage layout"
+    },
+    {
+      "id": "pavagadh-map",
+      "description": "Illustrated map of Pavagadh Hill and temple",
+      "imageUrl": "https://images.unsplash.com/photo-1648732788948-a505497d4923?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxoZXJpdGFnZSUyMHNpdGV8ZW58MHx8fHwxNzU4ODcxNDUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "heritage site"
+    }
+  ]
 }
