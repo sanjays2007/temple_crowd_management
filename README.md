@@ -1,6 +1,4 @@
-# Firebase Studio
 
-This is a Next.js starter project built in Firebase Studio.
 
 ## How to Clone and Run Locally
 
